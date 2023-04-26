@@ -1,0 +1,22 @@
+
+
+body {
+    background-image: url(https://t4.ftcdn.net/jpg/04/27/55/21/360_F_427552198_ESF02GXcsiU8eGjOFIceE6OKs36AxDa1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
