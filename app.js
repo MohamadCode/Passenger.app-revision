@@ -1,10 +1,10 @@
 let decEl = document.getElementById("number-el")
 let reachEl = document.getElementById("reach-el")
-let start = 0
+let count = 0
 
 
 function startbtn() {
-    start += 1
+    count += 1
     decEl.innerText = start
 }
 
