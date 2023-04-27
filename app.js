@@ -4,5 +4,6 @@ let start = 100
 
 
 function startbtn() {
-    
+    start += 1
+    decEl.textContent = start
 }
