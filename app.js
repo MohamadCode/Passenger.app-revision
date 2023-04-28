@@ -5,6 +5,14 @@ let decrease = 100
 
 function startbtn() {
     decrease -= 1
-    decEl.innerText = decrease
+    decEl.textContent = decrease
+}
+
+function reachedbtn() {
+ let save = decrease + " - "   
+reachEl.textContent += save
+decEl.textContent = 100
+decrease = 100 
+
 }
 
