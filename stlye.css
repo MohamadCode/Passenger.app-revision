@@ -35,6 +35,9 @@ body {
     color: #5B422A;
 }
 
+.number {
+    color: green;
+}
 
 .decrease__btn {
     border: solid 6px #8EBFE1;
